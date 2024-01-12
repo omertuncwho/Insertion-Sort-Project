@@ -1,5 +1,6 @@
 # Insertion-Sort-Project
 ## Project 1:
+
 ####:[22,27,16,2,18,6] -> Insertion Sort
 Steps according to the Insertion Sort algorithm:
 Step: [22] (27, 16, 2, 18, 6)
@@ -24,7 +25,6 @@ If it's at the beginning, O(1)
 
 ####:[7,3,5,8,2,9,4,15,6] according to Selection Sort:
 
-A:
 Step: [2, 3, 5, 8, 7, 9, 4, 15, 6]
 Step: [2, 3, 4, 8, 7, 9, 5, 15, 6]
 Step: [2, 3, 4, 5, 7, 9, 8, 15, 6]
